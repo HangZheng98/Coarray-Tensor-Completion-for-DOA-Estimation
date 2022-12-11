@@ -5,13 +5,8 @@ Written by Hang Zheng
 5/12/2022
 
 References: 
-H. Zheng, C. Zhou, A. L. F. de Almeida, Y. Gu, and Z. Shi 
-DOA estimation via coarray tensor completion with missing slices
-IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Singapore, May 2022, pp. 5053–5057.
-
-H. Zheng, Z. Shi, C. Zhou, A. L. F. de Almeida, ad Y. Gu
-Coarray tensor completion for DOA estimation
-IEEE Trans. Aerosp. Electron. Syst. (Under Major Revision)
+[1] H. Zheng, C. Zhou, A. L. F. de Almeida, Y. Gu, and Z. Shi, "DOA estimation via coarray tensor completion with missing slices," IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Singapore, May 2022, pp. 5053–5057.
+[2]H. Zheng, Z. Shi, C. Zhou, A. L. F. de Almeida, ad Y. Gu, "Coarray tensor completion for DOA estimation," IEEE Trans. Aerosp. Electron. Syst. (Under Major Revision)
 
 The tensor decompositon is implemented with tensorlab 3.0
 Reference:
