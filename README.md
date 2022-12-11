@@ -12,3 +12,5 @@ References:
 The tensor decompositon is implemented with tensorlab 3.0
 Reference:
 Vervliet N., Debals O., Sorber L., Van Barel M. and De Lathauwer L. Tensorlab 3.0, Available online, Mar. 2016. URL: https://www.tensorlab.net/
+
+Include the path of "tensorlab_2016-03-28" before running the main function
