@@ -14,3 +14,8 @@ Reference:
 Vervliet N., Debals O., Sorber L., Van Barel M. and De Lathauwer L. Tensorlab 3.0, Available online, Mar. 2016. URL: https://www.tensorlab.net/
 
 Include the path of "tensorlab_2016-03-28" before running the main function
+
+The patterns related to the proposed coarray tensor completion technique were applied, and they own to Zhejiang University. This source code is for learning and communication only, and it is forbidden for commercial use.
+
+TWO-DIMENSIONAL DIRECTION-OF-ARRIVAL ESTIMATION METHOD FOR COPRIME SURFACE ARRAY BASED ON VIRTUAL DOMAIN TENSOR FILLING, PCT CN2022/076430, 16/2/2022
+SPATIAL SPECTRUM ESTIMATIO WITH COPRIME ARRAY VIA OPTIMAL COARRAY TENSOR COMPLETION, PCT CN2022/076432, 16/2/2022
