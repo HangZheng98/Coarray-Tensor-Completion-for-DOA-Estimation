@@ -15,7 +15,7 @@ Vervliet N., Debals O., Sorber L., Van Barel M. and De Lathauwer L. Tensorlab 3.
 
 Include the path of "tensorlab_2016-03-28" before running the main function
 
-The pentents related to the proposed coarray tensor completion technique were applied, and they own to Zhejiang University. This source code is for learning and communication only, and it is forbidden for commercial use.
+The patents related to the proposed coarray tensor completion technique were applied, and they own to Zhejiang University. This source code is for learning and communication only, and it is forbidden for commercial use.
 
 [P1] TWO-DIMENSIONAL DIRECTION-OF-ARRIVAL ESTIMATION METHOD FOR COPRIME SURFACE ARRAY BASED ON VIRTUAL DOMAIN TENSOR FILLING, PCT CN2022/076430, 16/2/2022
 
