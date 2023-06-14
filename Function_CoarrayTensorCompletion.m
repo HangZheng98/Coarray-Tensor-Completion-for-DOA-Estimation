@@ -6,9 +6,9 @@ function [err_theta, err_fe, err_all, theta_estimation, fe_estimation] = Functio
 % DOA estimation via coarray tensor completion with missing slices
 % IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Singapore, May 2022, pp. 5053–5057.
 
-% H. Zheng, Z. Shi, C. Zhou, A. L. F. de Almeida, ad Y. Gu
+% H. Zheng, Z. Shi, C. Zhou, and A. L. F. de Almeida
 % Coarray tensor completion for DOA estimation
-% IEEE Trans. Aerosp. Electron. Syst.
+% IEEE Trans. Aerosp. Electron. Syst., 2023.
 
 % The tensor decompositon is implemented with tensorlab 3.0
 % Reference
