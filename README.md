@@ -5,6 +5,7 @@ Written by Hang Zheng
 5/12/2022
 
 References: 
+
 [1] H. Zheng, Z. Shi, C. Zhou, and A. L. F. de Almeida, "Coarray tensor completion for DOA estimation," IEEE Trans. Aerosp. Electron. Syst., vol. 59, no. 5, pp. 5472-5486, Oct. 2023.
 
 [2] H. Zheng, C. Zhou, A. L. F. de Almeida, Y. Gu, and Z. Shi, "DOA estimation via coarray tensor completion with missing slices," IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Singapore, May 2022, pp. 5053–5057. (Oral presentation)
